@@ -1,0 +1,30 @@
+hey mene ak full screen ka page add kiya hai 
+layout page main page hai jisme sab page ko display kiya hai fir dashbaord page me usko imoport karna hai mene already kar diya hai 
+toh usko mene comment kardiya hai 
+or last navbar me change karna hai mtlb mene chnages ko comment kardiya hai bus usko uncomment kardena fir woh perfectly work karega 
+
+
+
+
+santoshchoudahry hogya 
+ramratanchoudhary vala hogya 
+choudharypushpa hogya date 17 dec
+sangitachoudhary1401  date 19 dec
+ashish hogya 25 dec
+manish hogya 25 dec 
+
+rahul hogya 26 dec 
+
+
+
+
+
+
+
+
+
+hey lisetn chnage the price in evry second in the indexlist and indexdetsils page please so that i get the correct dasta and live data of the market overview page
+
+
+
+
